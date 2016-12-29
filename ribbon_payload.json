@@ -1,0 +1,197 @@
+{
+  "10000": {
+    "payload": {
+      "title": "Latest Movie Trailers",
+      "url": "peel://contents/?type=streaming&id=newmovietrailers&title=New Movie Trailers&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new movie trailers",
+      "type": "URL"
+    }
+  },
+  "10001": {
+    "payload": {
+      "title": "Latest Music Videos",
+      "url": "peel://contents/?type=streaming&id=JustReleasedMusicVideos&title=New Music Videos&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new music videos",
+      "type": "URL"
+    }
+  },
+  "10002": {
+    "payload": {
+      "title": "100 Amazing Funny Videos",
+      "url": "peel://contents/?type=streaming&id=GagReel&title=100 Amazing Funny Videos&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10003": {
+    "payload": {
+      "title": "The Richest",
+      "url": "peel://contents/?type=streaming&id=TheRichest&title=The Richest&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10004": {
+    "payload": {
+      "title": "Seeker Daily",
+      "url": "peel://contents/?type=streaming&id=SeekerDaily&title=Seeker Daily&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10005": {
+    "payload": {
+      "title": "Buzzfeed Videos",
+      "url": "peel://contents/?type=streaming&id=BuzzFeedVideos&title=Buzzfeed Videos&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10006": {
+    "payload": {
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "url": "peel://contents/?type=streaming&id=JimmyFallon&title=The Tonight Show Starring Jimmy Fallon&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10007": {
+    "payload": {
+      "title": "Jimmy Kimmel Live",
+      "url": "peel://contents/?type=streaming&id=JimmyKimmel&title=Jimmy Kimmel Live&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10008": {
+    "payload": {
+      "title": "Pew Die Pie",
+      "url": "peel://contents/?type=streaming&id=PewDiePie&title=Pew Die Pie&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10009": {
+    "payload": {
+      "title": "The Slow Mo Guys",
+      "url": "peel://contents/?type=streaming&id=TheSlowMoguys&title=The Slow Mo Guys&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10010": {
+    "payload": {
+      "title": "Celebrity Covers",
+      "url": "peel://contents/?type=streaming&id=CelebrityCovers&title=Celebrity Covers&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10011": {
+    "payload": {
+      "title": "Funny Or Die Latest",
+      "url": "peel://contents/?type=streaming&id=FunnyorDieLatest&title=Funny Or Die Latest&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10012": {
+    "payload": {
+      "title": "Fail Army Compilations",
+      "url": "peel://contents/?type=streaming&id=FailArmyCompilations&title=Fail Army Compilations&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10013": {
+    "payload": {
+      "title": "Go Pro Videos",
+      "url": "peel://contents/?type=streaming&id=GoProVideos&title=Go Pro Videos&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },
+  "10014": {
+    "payload": {
+      "title": "Motor Trend",
+      "url": "peel://contents/?type=streaming&id=MotorTrend&title=Motor Trend&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },"10015": {
+    "payload": {
+      "title": "Car And Driver",
+      "url": "peel://contents/?type=streaming&id=CarAndDriver&title=Car And Driver&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },"10016": {
+    "payload": {
+      "title": "Game Overload",
+      "url": "peel://contents/?type=streaming&id=GameOverload&title=Game Overload&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },"10017": {
+    "payload": {
+      "title": "NFL Channel",
+      "url": "peel://contents/?type=streaming&id=NFLChannel&title=NFL Channel&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },"10018": {
+    "payload": {
+      "title": "LastWeekTonight",
+      "url": "peel://contents/?type=streaming&id=LastWeekTonight&title=Last Week Tonight&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  },"10019": {
+    "payload": {
+      "title": "New Latest and Live",
+      "url": "peel://contents/?type=streaming&id=peeltv_US&title=News - Around the World!&display_type=current&aspect_ratio=16x9",
+      "strategic": "true",
+      "priority": "high",
+      "message": "Check out the new videos",
+      "type": "URL"
+    }
+  }
+}
